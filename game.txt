@@ -1,0 +1,1 @@
+<man_name> <women_name> <animal> <contry> <city> <fruit> <vegetable>  
